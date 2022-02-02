@@ -1,2 +1,2 @@
 # ArpitaBamhanecss.github.io
-It has four different pages linked with css files and had styled the pages with some css properties
+ A Todo application project made by using html and css and has designed the pages by applying different style properties.
